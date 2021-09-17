@@ -1,2 +1,10 @@
-# CIS350-HW2-Aganovic
-Repository for personal CIS350 assignments
+# Amela Aganovic
+* Python programming enjoyer
+* Digital art hobbyist
+* Cat lover
+
+## Technical Background
+Programming languages: Python, Java, C
+Certifications: Microsoft Azure Fundamentals
+
+[Here is a link to my favorite meme.](https://imgur.com/a/6cfBxjF)
