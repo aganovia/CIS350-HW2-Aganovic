@@ -6,6 +6,8 @@
 ## Technical Background
 Programming languages: Python, Java, C
 
+Work experience: GVSU School of Computing, Dow
+
 Certifications: Microsoft Azure Fundamentals
 
-[Here is a link to my favorite meme.](https://imgur.com/a/6cfBxjF)
+[Here is my favorite meme.](https://imgur.com/a/6cfBxjF)
